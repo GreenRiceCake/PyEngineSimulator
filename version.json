@@ -1,5 +1,5 @@
 {
   "version": "2.5",
-  "changelog": "- 기존의 단순한 형태의 그래프를 좀 더 현실적으로 변경",
+  "changelog": "- 기존의 단순한 형태의 그래프를 좀 더 현실적으로 변경함\n- 엔진출력 계산 공식을 개선함",
   "download_url": "https://www.dropbox.com/scl/fi/psrz2f8e5tlvhlk576r43/EngineSim.exe?rlkey=bnn0rja9tu2e5c7oabnhmvrvm&st=9e29h0lz&dl=1"
 }
